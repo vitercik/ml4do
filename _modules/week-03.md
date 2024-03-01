@@ -2,11 +2,11 @@
 title: Graph neural networks (GNNs)
 ---
 
-Apr 25
+Apr 15
 : GNNs crash course
 
-Apr 27
+Apr 17
 : GNNs and RL for learning greedy heuristics
 
-Apr 27
+Apr 22
 : Neural algorithmic alignment
