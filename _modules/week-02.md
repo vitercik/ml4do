@@ -3,7 +3,7 @@ title: Pointer networks
 ---
 
 Apr 3
-: Recurrent neural networks and pointer networks
+: Recurrent neural networks (RNNs) and pointer networks
 : *Suggested reading:*
 : - CS244N notes on RNNs [[link]](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
 : - Blog post by Christopher Olah on long-short-term-memories (LSTMs) [[link]](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
