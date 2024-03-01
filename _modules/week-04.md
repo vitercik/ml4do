@@ -2,11 +2,11 @@
 title: Integer programming (IP) and satisfiability (SAT) problems
 ---
 
-May 2
+Apr 24
 : IP and SAT overview
 
-May 4
+Apr 29
 : GNNs for solving IPs
 
-May 9
+May 1
 : GNNs for solving SAT problems
