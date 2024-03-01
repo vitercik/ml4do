@@ -1,11 +1,12 @@
 ---
-title: Midterm presentations
+title: Transformers and LLMs
 ---
 
-May 11
-: Midterm project presentations
-  : **Project**{: .label .label-blue }
-: Students will give short presentations on papers related to their final projects.
+May 6
+: Transformers
 
-May 16
-: No class
+May 8
+: Guest lecture
+
+May 13
+: Transformers as algorithms
