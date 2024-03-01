@@ -25,7 +25,7 @@ Machine learning has become a powerful tool for discrete optimization. This is b
 
 ## Course activities
 
-- **[Lectures](calendar.md):** The course will include lectures which cover key technical tools used to develop and analyze machine learning approaches to algorithm design. These include introductions to the supervised learning model, integer programming and SAT solvers, graph neural networks, Markov decision processes, reinforcement learning, and theoretical machine learning.
+- **[Lectures](calendar.md):** The course will include lectures which cover key technical tools used to develop and analyze machine learning approaches to discrete optimization.
 - **[Homework](homework.md):** There will be three homeworks that include both applied coding problems (in Python) and theoretical exercises.
 - **[Project](project.md):** Students will complete a course project, in a group or individually.
 
