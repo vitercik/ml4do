@@ -3,18 +3,10 @@ title: Pointer networks
 ---
 
 Apr 13
-: Graph neural networks (GNNs)
-  : **Lecture**{: .label .label-purple }
-: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture4.pdf)
+: Recurrent neural networks and pointer networks
 
 Apr 18
-: GNNs for graph algorithms
-  : **Discussion**{: .label .label-red }
-: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture5.pdf)
-: - *Reading:* Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
+: Reinforcement learning (RL) crash course
 
 Apr 20
-: Survey of GNNs for combinatorial optimization
-  : **Discussion**{: .label .label-red }
-: - [Slides](https://vitercik.github.io/ml4algs/assets/slides/lecture6.pdf)
-: - *Reading:* Section 3.3 of Cappart, Quentin, et al. "Combinatorial optimization and reasoning with graph neural networks." arXiv'21 [[link]](https://arxiv.org/pdf/2102.09544.pdf)
+: Pointer networks and RL for the traveling salesman problem (TSP)
