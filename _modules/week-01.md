@@ -2,5 +2,5 @@
 title: Introduction
 ---
 
-Apr 4
+Apr 1
 : Introduction to class
