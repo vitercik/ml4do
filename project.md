@@ -36,4 +36,4 @@ Students should write up the results in the [NeurIPS conference format](https://
 - **Writing**: 10 points; your final paper should be readable and complete and situate itself appropriately among related work.
 - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
 
-[^1] test
+[^1]: test
