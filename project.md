@@ -11,7 +11,7 @@ All students in the class will write a "mini-paper" as a final project, which ca
 - **Research**: Present progress your group made on a problem relevant to the course. Your report should adopt the structure of a research paper, though it is not required to reach the standard for academic publishing. Clearly explain the problem, previous research, the positioning of your results within this context, and support all your assertions with evidence and (if applicable) proofs.
 - **Survey**: Choose between 2 and 4 papers discussed in class. For each paper:
   1. Summarize a paper that the paper covered in class cites. Answer the question: how does the paper covered in class build on the older paper?
-  2. Summarize a paper that cites your the paper covered in class. Answer the question: how does the more recent paper build on the paper covered in class? (To find papers that cite the paper covered in class, check out [Google scholar](https://scholar.google.com/).)
+  2. Summarize a paper that cites the paper covered in class. Answer the question: how does the more recent paper build on the paper covered in class? (To find papers that cite the paper covered in class, check out [Google scholar](https://scholar.google.com/).)
   3. Now, imagine you’re a researcher who is working on a new project in this area. Propose an imaginary follow-up project not just based on the paper covered in class, but only possible due to the existence and success of the paper covered in class.[^1]
 
 ## Format
