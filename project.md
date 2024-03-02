@@ -25,8 +25,8 @@ Students should write up the results in the [NeurIPS conference format](https://
 - The paper length for a final project write-up is 3 if solo-authored or 5 if there are two authors, not including references or the contributions paragraph.
 
 ## Milestones
-- **May 5**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
-- **June 8**: Students will present their final project during class.
+- **May 1**: Each group will submit a short progress report of 1-2 pages. Describe your project and partial progress.
+- **June 5**: Students will present their final project during class.
 - **June 12**: Each group will submit their final report.
 
 ## Grading
@@ -36,4 +36,4 @@ Students should write up the results in the [NeurIPS conference format](https://
 - **Writing**: 10 points; your final paper should be readable and complete and situate itself appropriately among related work.
 - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
 
-[^1]: test
+[^1]: These tasks are directly inspired by a course design by Alec Jacobson and Colin Raffel [[link]](https://colinraffel.com/blog/role-playing-seminar.html).
