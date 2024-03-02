@@ -36,3 +36,7 @@ Machine learning has become a powerful tool for discrete optimization. This is b
 Grading will be out of 100 points. The grading breakdowns are as follows:
 - **[Homeworks](homework.md):** 60 points
 - **[Project](https://vitercik.github.io/ml4do/project/#grading):** 40 points
+
+## Related courses
+
+I taught a 300-level PhD seminar on these topics in 2023 [[link]](https://vitercik.github.io/ml4algs).
