@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MS&E/CS 331
-tagline: Machine Learning for Algorithm Design
-description: Machine Learning for Algorithm Design
+title: MS&E 236 / CS 225
+tagline: Machine Learning for Discrete Optimization
+description: Machine Learning for Discrete Optimization
 author: Ellen Vitercik
 baseurl: '/ml4do' # the subpath of your site, e.g. /blog
 url: 'https://vitercik.github.io' # the base hostname & protocol for your site, e.g. http://example.com
