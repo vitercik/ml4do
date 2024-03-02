@@ -8,7 +8,7 @@ Apr 24
 Apr 29
 : **GNNs for solving IPs**
 : *Suggested reading:*
-: - Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
+: - Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 
 May 1
 : **GNNs for solving SAT problems**
