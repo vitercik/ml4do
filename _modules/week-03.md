@@ -3,7 +3,7 @@ title: Graph neural networks (GNNs)
 ---
 
 Apr 15
-: **GNNs crash course**
+: **GNNs overview**
 
 Apr 17
 : **GNNs and RL for learning greedy heuristics**

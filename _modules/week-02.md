@@ -12,7 +12,7 @@ Apr 3
 : - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
 
 Apr 8
-: **Reinforcement learning (RL) crash course**
+: **Reinforcement learning (RL) overview**
 
 Apr 10
 : **Pointer networks and RL for the traveling salesman problem (TSP)**

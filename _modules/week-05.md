@@ -3,7 +3,7 @@ title: Transformers and LLMs
 ---
 
 May 6
-: **Transformers**
+: **Transformers overview**
 
 May 8
 : **Guest lecture**
