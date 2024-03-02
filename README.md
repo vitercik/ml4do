@@ -16,9 +16,9 @@ seo:
 - **Lecture time:** Mondays and Wednesdays 1:30-2:50pm
 - **Lecture location:** 200-203
 - **Instructor:** [Ellen Vitercik](https://vitercik.github.io)
- - **Instructor office hours:** TBD
+  - **Instructor office hours:** TBD
 - **CA**: Yanis Miraoui
- - **CA office hours:** TBD
+  - **CA office hours:** TBD
 - **Prerequisites:** Introductory course in algorithms (e.g., CS 161) and introductory course in machine learning (e.g., CS 229).
 
 ## Description
