@@ -20,7 +20,7 @@ Students should write up the results in the [NeurIPS conference format](https://
 ## Working in groups
 - Students are welcome to work in groups on the final project.
 - Groups should include at most two students (except with special permission).
-- I will expect a group of two students to put twice as much work into the final project than for a sole-author project, and similarly for groups of three.
+- I will expect a group of two students to put twice as much work into the final project than for a solo-authored project.
 - Students in groups are required to include a “contributions” paragraph in their paper that concretely lists each author's contributions.
 - The paper length for a final project write-up is 3 if solo-authored or 5 if there are two authors, not including references or the contributions paragraph.
 
