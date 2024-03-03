@@ -30,6 +30,7 @@ Students should write up the results in the [NeurIPS conference format](https://
 - **June 12**: Each group will submit their final report.
 
 ## Grading
+Grading will be out of 45 points, with the following breakdown:
 ### Research
 - **Progress report**: 10 points.
 - **Writing**: 10 points; your final paper should be readable and complete, and it should clearly contextualize your results within prior research.
