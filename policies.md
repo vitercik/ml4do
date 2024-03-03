@@ -7,7 +7,7 @@ description: >-
 
 # Additional course policies
 
-## Presence and Participation
+## Presence and participation
 
 Class participation is important for staying engaged and in sync with the course material. Although lectures will be recorded, attending in person is encouraged through our participation policy:
 
