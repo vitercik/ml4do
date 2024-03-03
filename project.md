@@ -33,13 +33,13 @@ Students should write up the results in the [NeurIPS conference format](https://
 ### Research
 - **Progress report**: 10 points.
 - **Writing**: 10 points; your final paper should be readable and complete, and it should clearly contextualize your results within prior research.
-- **Novelty**: 10 points; if research, your project should propose something new (either a new application, method, or perspective).
+- **Novelty**: 15 points; your project should propose something new (either a new application, method, or perspective).
 - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
 
 ### Survey
 - **Progress report**: 10 points.
 - **Writing**: 10 points; your final paper should be readable and complete. The connections to prior and subsequent research should be clear.
-- **Novelty**: 10 points; for each paper, the third component of the survey should propose something new (either a new application, method, or perspective).
+- **Novelty**: 15 points; for each paper, the third component of the survey should propose something new (either a new application, method, or perspective).
 - **Final presentation**: 10 points; your final project presentation should be clear and provide a solid picture of what you did.
 
 [^1]: These tasks are directly inspired by a course design by Alec Jacobson and Colin Raffel [[link]](https://colinraffel.com/blog/role-playing-seminar.html).
