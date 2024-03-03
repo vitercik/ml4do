@@ -33,7 +33,7 @@ Machine learning has become a powerful tool for discrete optimization. This is b
 
 ## Grading
 
-Grading will be out of 100 points. The grading breakdowns are as follows:
+Grading will be out of 100 points as follows:
 - **[Participation](policies.md):** 10 points
 - **[Homeworks](homework.md):** 45 points
 - **[Project](https://vitercik.github.io/ml4do/project/#grading):** 45 points
