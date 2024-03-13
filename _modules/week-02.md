@@ -1,15 +1,15 @@
 ---
-title: Pointer networks
+title: Reinforcement learning (RL) for the travelling salesman problem (TSP)
 ---
 
 Apr 3
-: **The travelling salesman problem (TSP) and recurrent neural networks (RNNs)**
+: **TSP and recurrent neural networks (RNNs)**
 : *Suggested reading:*
 : - CS244N notes on RNNs [[link]](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
 : - CS244N notes on sequence-to-sequence models and attention mechanisms [[link]](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
 
 Apr 8
-: **Pointer networks and reinforcement learning (RL) for TSP**
+: **Pointer networks and RL for TSP**
 : *Suggested reading:*
 : - CS229 notes, Chapter 17, on policy gradient [[link]](https://cs229.stanford.edu/main_notes.pdf)
 : - Vinyals, Oriol, et al. "Pointer networks." NeurIPS'15. [[link]](https://papers.nips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)
