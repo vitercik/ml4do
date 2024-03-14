@@ -18,4 +18,5 @@ Apr 8
 Apr 10
 : **RL for TSP, continued**
 : *Suggested reading:*
+: - CS261 notes, Chapter 2.2.2, on TSP approximation algorithms [[link]](https://theory.stanford.edu/~trevisan/cs261/all-notes-2010.pdf)
 : - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
