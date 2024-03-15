@@ -1,5 +1,5 @@
 ---
-title: Reinforcement learning (RL) for the travelling salesman problem (TSP)
+title: Pointer networks for the travelling salesman problem (TSP)
 ---
 
 Apr 3
@@ -9,14 +9,14 @@ Apr 3
 : - CS244N notes on sequence-to-sequence models and attention mechanisms [[link]](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
 
 Apr 8
-: **Pointer networks and RL for TSP**
+: **Pointer networks for TSP**
 : *Suggested reading:*
-: - CS229 notes, Chapter 17, on policy gradient [[link]](https://cs229.stanford.edu/main_notes.pdf)
+: - Chapter 17 of CS229 notes on policy gradient [[link]](https://cs229.stanford.edu/main_notes.pdf)
 : - Vinyals, Oriol, et al. "Pointer networks." NeurIPS'15. [[link]](https://papers.nips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)
 : - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
 
 Apr 10
-: **RL for TSP, continued**
+: **Pointer networks for TSP, continued**
 : *Suggested reading:*
-: - CS261 notes, Chapter 2.2.2, on TSP approximation algorithms [[link]](https://theory.stanford.edu/~trevisan/cs261/all-notes-2010.pdf)
+: - Chapter 2.2.2 of CS261 notes on TSP approximation algorithms [[link]](https://theory.stanford.edu/~trevisan/cs261/all-notes-2010.pdf)
 : - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)

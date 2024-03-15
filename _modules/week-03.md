@@ -6,7 +6,7 @@ Apr 15
 : **GNNs overview**
 
 Apr 17
-: **GNNs and RL for learning greedy heuristics**
+: **GNNs for learning greedy heuristics**
 : *Suggested reading:*
 : - Dai, Hanjun, et al. "Learning combinatorial optimization algorithms over graphs." NeurIPS'17. [[link]](https://arxiv.org/pdf/1704.01665.pdf)
 
