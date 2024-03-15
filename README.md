@@ -24,7 +24,7 @@ seo:
 
 ## Description
 
-Machine learning has become a powerful tool for discrete optimization. This is because, in practice, we often have ample data about the application domain—data that can be used to optimize algorithmic performance, ranging from runtime to solution quality. This course covers how machine learning can be used within the discrete optimization pipeline from many perspectives, including how to design novel combinatorial algorithms with machine-learned modules and configure existing algorithms’ parameters to optimize performance. Topics will include both applied machinery (such as graph neural networks, reinforcement learning, transformers, and LLMs) as well as theoretical tools for providing provable guarantees.
+Machine learning has become a powerful tool for discrete optimization. This is because, in practice, we often have ample data about the application domain--data that can be used to optimize algorithmic performance, ranging from runtime to solution quality. This course covers how machine learning can be used within the discrete optimization pipeline from many perspectives, including how to design novel combinatorial algorithms with machine-learned modules and configure existing algorithms’ parameters to optimize performance. Topics will include both applied machinery (such as graph neural networks, reinforcement learning, transformers, and LLMs) as well as theoretical tools for providing provable guarantees.
 
 ## Course activities
 
