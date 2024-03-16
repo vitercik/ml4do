@@ -17,7 +17,7 @@ Apr 17
 Apr 22
 : **Reinforcement learning (Q-learning)**
 : *Suggested reading:*
-: - Lecture notes from UC Berkeley on value iteration [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note12.pdf)
+: - Lecture notes from UC Berkeley on policy iteration [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note12.pdf)
 : - Lecture notes from UC Berkeley on reinforcement learning [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note13.pdf)
 
 Apr 24
