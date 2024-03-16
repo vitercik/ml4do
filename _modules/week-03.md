@@ -7,6 +7,7 @@ Apr 15
 : *Suggested reading:*
 : - Section 1.1 of CS161 notes on graphs [[link]](https://stanford-cs161.github.io/winter2024/assets/files/lecture9-notes.pdf)
 : - Chapter 35.1 of Cormen, Thomas H., et al.'s "Introduction to algorithms" on minimum vertex cover [[link]](https://searchworks.stanford.edu/view/12846639)
+: - Section 2.1.1 of Anupam Gupta's lecture notes on maximum cut [[link]](https://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/scribe/lec02.pdf)
 
 Apr 17
 : **GNNs overview**
