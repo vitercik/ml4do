@@ -6,7 +6,7 @@ Apr 29
 : **IP and SAT overview**
 
 May 1
-: **GNNs for solving IPs**
+: **Integrating GNNs into IP solvers**
 : *Suggested reading:*
 : - Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 
