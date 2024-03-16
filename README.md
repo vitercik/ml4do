@@ -20,7 +20,7 @@ seo:
 - **CA**: Yanis Miraoui
   - **CA office hours:** TBD
 - **Prerequisites:** Introductory course in algorithms/optimization (e.g., CS 161
-  or MS&E 111/211) and introductory course in machine learning (e.g., CS 229 or MS&E 226).
+  or MS&E 111/211) and introductory course in machine learning (e.g., CS 229).
 
 ## Description
 
