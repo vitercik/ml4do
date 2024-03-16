@@ -10,7 +10,7 @@ Apr 15
 : - Section 2.1.1 of Anupam Gupta's lecture notes on maximum cut [[link]](https://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/scribe/lec02.pdf)
 
 Apr 17
-: **GNNs and Markov Decision Processes**
+: **GNNs and Markov decision processes**
 
 Apr 22
 : **Reinforcement learning (Q-learning)**
