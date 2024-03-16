@@ -10,10 +10,15 @@ Apr 15
 : - Section 2.1.1 of Anupam Gupta's lecture notes on maximum cut [[link]](https://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/scribe/lec02.pdf)
 
 Apr 17
-: **GNNs and Markov decision processes**
+: **GNNs and Markov decision processes (MDPs)**
+: *Suggested reading:*
+: - Lecture notes from UC Berkeley on MDPs [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note11.pdf)
 
 Apr 22
 : **Reinforcement learning (Q-learning)**
+: *Suggested reading:*
+: - Lecture notes from UC Berkeley on value iteration [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note12.pdf)
+: - Lecture notes from UC Berkeley on reinforcement learning [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note13.pdf)
 
 Apr 24
 : **GNNs as greedy heuristics and dynamic programmers**
