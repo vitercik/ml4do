@@ -4,6 +4,9 @@ title: Graph neural networks (GNNs)
 
 Apr 15
 : **Graphs and graph algorithms**
+: *Suggested reading:*
+: - Section 1.1 of CS161 notes on graphs [[link]](https://stanford-cs161.github.io/winter2024/assets/files/lecture9-notes.pdf)
+: - Chapter 35.1 of Cormen, Thomas H., et al.'s "Introduction to algorithms" on minimum vertex cover [[link]](https://searchworks.stanford.edu/view/12846639)
 
 Apr 17
 : **GNNs overview**
