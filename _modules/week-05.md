@@ -3,7 +3,7 @@ title: Transformers and LLMs
 ---
 
 May 8
-: **Guest lecture by [[Madeleine Udell]](https://web.stanford.edu/~udell/)**
+: **Guest lecture by [Madeleine Udell](https://web.stanford.edu/~udell/)**
 
 May 13
 : **Transformers overview**
