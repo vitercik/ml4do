@@ -10,14 +10,13 @@ Apr 15
 : - Section 2.1.1 of Anupam Gupta's lecture notes on maximum cut [[link]](https://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/scribe/lec02.pdf)
 
 Apr 17
-: **GNNs overview**
+: **GNNs and Markov Decision Processes**
 
 Apr 22
-: **GNNs for learning greedy heuristics**
-: *Suggested reading:*
-: - Dai, Hanjun, et al. "Learning combinatorial optimization algorithms over graphs." NeurIPS'17. [[link]](https://arxiv.org/pdf/1704.01665.pdf)
+: **Reinforcement learning (Q-learning)**
 
 Apr 24
-: **Neural algorithmic alignment**
+: **GNNs as greedy heuristics and dynamic programmers**
 : *Suggested reading:*
+: - Dai, Hanjun, et al. "Learning combinatorial optimization algorithms over graphs." NeurIPS'17. [[link]](https://arxiv.org/pdf/1704.01665.pdf)
 : - Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
