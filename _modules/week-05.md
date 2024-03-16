@@ -10,5 +10,5 @@ May 13
 
 May 15
 : **Transformers as algorithms**
-: *Suggested reading:*
+: *Supplemental reading:*
 : - Garg, Shivam, et al. "What can transformers learn in-context? a case study of simple function classes." NeurIPS'22. [[link]](https://arxiv.org/pdf/2208.01066.pdf)

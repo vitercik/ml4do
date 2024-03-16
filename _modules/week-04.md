@@ -7,10 +7,10 @@ Apr 29
 
 May 1
 : **Integrating GNNs into IP solvers**
-: *Suggested reading:*
+: *Supplemental reading:*
 : - Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 
 May 6
 : **GNNs for solving SAT problems**
-: *Suggested reading:*
+: *Supplemental reading:*
 : - Selsam, Daniel, et al. "Learning a SAT solver from single-bit supervision." ICLR'19. [[link]](https://arxiv.org/pdf/1802.03685.pdf)
