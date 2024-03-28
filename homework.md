@@ -11,6 +11,7 @@ description: >-
 Assignments will be posted on Gradescope.
 
 ## (Tentative) homework deadlines
+Homeworks will be due at 11:59pm on the following dates:
 - **Thursday, April 11:** HW1 out
 - **Thursday, May 2:** HW1 due, HW2 out
 - **Thursday, May 16:** HW2 due, HW3 out
