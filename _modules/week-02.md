@@ -1,5 +1,5 @@
 ---
-title: Pointer networks for the travelling salesman problem (TSP)
+title: Pointer networks for the traveling salesman problem (TSP)
 ---
 
 Apr 3
