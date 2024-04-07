@@ -13,10 +13,11 @@ Apr 8
 : *Supplemental reading:*
 : - Chapter 17 of CS229 notes on policy gradient [[link]](https://cs229.stanford.edu/main_notes.pdf)
 : - Vinyals, Oriol, et al. "Pointer networks." NeurIPS'15. [[link]](https://papers.nips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)
-: - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
+: - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." Workshop track of ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
 
 Apr 10
 : **Pointer networks for TSP, continued**
 : *Supplemental reading:*
 : - Chapter 2.2.2 of CS261 notes on TSP approximation algorithms [[link]](https://theory.stanford.edu/~trevisan/cs261/all-notes-2010.pdf)
-: - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning." ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
+: - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning."
+Workshop track of ICLR'17. [[link]](https://arxiv.org/pdf/1611.09940.pdf)
