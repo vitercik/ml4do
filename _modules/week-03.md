@@ -12,6 +12,7 @@ Apr 15
 Apr 17
 : **GNNs and Markov decision processes (MDPs)**
 : *Supplemental reading:*
+: - Chapter 13 of Bishop's "Deep learning: foundations and concepts" [[link 1]](https://searchworks.stanford.edu/view/in00000073280) [[link 2]](https://issuu.com/cmb321/docs/deep_learning_ebook)
 : - Lecture notes from UC Berkeley on MDPs [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note11.pdf)
 
 Apr 22
