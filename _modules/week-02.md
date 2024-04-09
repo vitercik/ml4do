@@ -4,7 +4,7 @@ title: Pointer networks for the traveling salesman problem (TSP)
 
 Apr 3
 : **TSP and recurrent neural networks (RNNs)**
-: [Lecture notes](https://vitercik.github.io/ml4do/assets/slides/lecture2.pdf)
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture2.pdf)
 : *Supplemental reading:*
 : - CS244N notes on RNNs [[link]](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes05-LM_RNN.pdf)
 : - CS244N notes on sequence-to-sequence models and attention mechanisms [[link]](https://web.stanford.edu/class/cs224n/readings/cs224n-2019-notes06-NMT_seq2seq_attention.pdf)
