@@ -11,6 +11,7 @@ Apr 3
 
 Apr 8
 : **Pointer networks for TSP**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture3.pdf)
 : *Supplemental reading:*
 : - Chapter 17 of CS229 notes on policy gradient [[link]](https://cs229.stanford.edu/main_notes.pdf)
 : - Vinyals, Oriol, et al. "Pointer networks." NeurIPS'15. [[link]](https://papers.nips.cc/paper_files/paper/2015/file/29921001f2f04bd3baee84a12e98098f-Paper.pdf)
