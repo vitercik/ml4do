@@ -25,7 +25,6 @@ Apr 24
 : **GNNs as greedy heuristics**
 : *Supplemental reading:*
 : - Dai, Hanjun, et al. "Learning combinatorial optimization algorithms over graphs." NeurIPS'17. [[link]](https://arxiv.org/pdf/1704.01665.pdf)
-: - Li, Zhuwen, et al. "Combinatorial optimization with graph convolutional networks and guided tree search." NeurIPS'18. [[link]](https://proceedings.neurips.cc/paper/2018/file/8d3bba7425e7c98c50f52ca1b52d3735-Paper.pdf)
 
 Apr 29
 : **Neural algorithmic alignment**
