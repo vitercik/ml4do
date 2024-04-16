@@ -19,6 +19,7 @@ Apr 8
 
 Apr 10
 : **Pointer networks for TSP, continued**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture4.pdf)
 : *Supplemental reading:*
 : - Chapter 2.2.2 of CS261 notes on TSP approximation algorithms [[link]](https://theory.stanford.edu/~trevisan/cs261/all-notes-2010.pdf)
 : - Bello, Irwan, et al. "Neural combinatorial optimization with reinforcement learning."
