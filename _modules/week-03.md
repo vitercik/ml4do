@@ -14,6 +14,7 @@ Apr 17
 : **GNNs**
 : *Supplemental reading:*
 : - Chapter 13 of Bishop's "Deep learning: foundations and concepts" [[link 1]](https://searchworks.stanford.edu/view/in00000073280) [[link 2]](https://issuu.com/cmb321/docs/deep_learning_ebook)
+: - Stanford's CS224W course on [Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 
 Apr 22
 : **Reinforcement learning (Q-learning)**
