@@ -11,14 +11,14 @@ Apr 15
 : - Section 2.1.1 of Anupam Gupta's lecture notes on maximum cut [[link]](https://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/scribe/lec02.pdf)
 
 Apr 17
-: **GNNs and Markov decision processes (MDPs)**
+: **GNNs**
 : *Supplemental reading:*
 : - Chapter 13 of Bishop's "Deep learning: foundations and concepts" [[link 1]](https://searchworks.stanford.edu/view/in00000073280) [[link 2]](https://issuu.com/cmb321/docs/deep_learning_ebook)
-: - Lecture notes from UC Berkeley on MDPs [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note11.pdf)
 
 Apr 22
 : **Reinforcement learning (Q-learning)**
 : *Supplemental reading:*
+: - Lecture notes from UC Berkeley on MDPs [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note11.pdf)
 : - Lecture notes from UC Berkeley on policy iteration [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note12.pdf)
 : - Lecture notes from UC Berkeley on reinforcement learning [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note13.pdf)
 
