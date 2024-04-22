@@ -21,9 +21,9 @@ seo:
   - Yanis Miraoui
     - Office hours: Mondays, 9-11am in Sequoia 207
   - Paul Woringer
-    - Office hours: Tuesdays, 3-5pm. Room TBA.
+    - Office hours: Tuesdays, 3-5pm in Huang B016
 - **Prerequisites:** Introductory course in algorithms/optimization (e.g., CS 161
-  or MS&E 111/211) and introductory course in machine learning (e.g., CS 221 CS 229).
+  or MS&E 111/211) and introductory course in machine learning (e.g., CS 221 or CS 229).
   Students should be familiar with basic feed-forward neural networks (check out
     pages 5-9 of [these lecture notes](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note26.pdf)
     for a refresher).
