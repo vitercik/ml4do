@@ -13,6 +13,7 @@ Apr 15
 Apr 17
 : **GNNs**
 : *Supplemental reading:*
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture6.pdf)
 : - Chapter 13 of Bishop's "Deep learning: foundations and concepts" [[link 1]](https://searchworks.stanford.edu/view/in00000073280) [[link 2]](https://issuu.com/cmb321/docs/deep_learning_ebook)
 : - Stanford's CS224W course on [Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 
@@ -32,3 +33,4 @@ Apr 29
 : **Neural algorithmic alignment**
 : *Supplemental reading:*
 : - Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
+: - Ibarz, Borja, et al. "A generalist neural algorithmic learner." LoG'22. [[link]](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)
