@@ -19,6 +19,7 @@ Apr 17
 
 Apr 22
 : **Reinforcement learning (Q-learning)**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture7.pdf)
 : *Supplemental reading:*
 : - Lecture notes from UC Berkeley on MDPs [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note11.pdf)
 : - Lecture notes from UC Berkeley on reinforcement learning [[link]](https://inst.eecs.berkeley.edu/~cs188/sp23/assets/notes/cs188-sp23-note13.pdf)
