@@ -1,9 +1,9 @@
 ---
-title: Transformers and LLMs
+title: Theoretical guarantees
 ---
 
 May 15
-: **Online learning**
+: **Online algorithm configuration**
 : *Supplemental reading:*
 : - Gupta, Rishi, and Tim Roughgarden. "A PAC approach to application-specific algorithm selection." ITCS'16. [[link]](https://arxiv.org/pdf/1511.07147.pdf)
 : - Balcan, Maria-Florina. "Data-driven algorithm design." In *Beyond the worst-case analysis of algorithms*. Cambridge University Press, '21. [[link]](https://arxiv.org/pdf/2011.07177.pdf)
