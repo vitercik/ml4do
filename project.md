@@ -13,6 +13,7 @@ All students in the class will write a "mini-paper" as a final project, which ca
   1. Summarize a paper that the paper covered in class cites. Answer the question: how does the paper covered in class build on the older paper?
   2. Summarize a paper that cites the paper covered in class. Answer the question: how does the more recent paper build on the paper covered in class? (To find papers that cite the paper covered in class, check out [Google scholar](https://scholar.google.com/).)
   3. Now, imagine you’re a researcher who is working on a new project in this area. Propose an imaginary follow-up project not just based on the paper covered in class, but only possible due to the existence and success of the paper covered in class.[^1]
+  The papers you choose for (1) and (2) should not have been covered in class.
 
 ## Format
 Students should write up the results in the [NeurIPS conference format](https://neurips.cc/Conferences/2023/PaperInformation/StyleFiles).
