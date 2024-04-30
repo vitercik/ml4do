@@ -26,6 +26,7 @@ Apr 22
 
 Apr 24
 : **GNNs as greedy heuristics**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture8.pdf)
 : *Supplemental reading:*
 : - Dai, Hanjun, et al. "Learning combinatorial optimization algorithms over graphs." NeurIPS'17. [[link]](https://arxiv.org/pdf/1704.01665.pdf)
 : - Ahn, Sungsoo, Younggyo Seo, and Jinwoo Shin. "Learning what to defer for maximum independent sets." ICML'20. [[link]](https://proceedings.mlr.press/v119/ahn20a/ahn20a.pdf)
