@@ -10,6 +10,8 @@ May 6
 
 May 8
 : **Guest lecture by [Madeleine Udell](https://web.stanford.edu/~udell/)**
+: *Supplemental reading:*
+: - AhmadiTeshnizi, Ali, Wenzhi Gao, and Madeleine Udell. "OptiMUS: Optimization modeling using MIP solvers and large language models." arXiv'23. [[link]](https://www.arxiv.org/abs/2310.06116)
 
 May 13
 : **GNNs for IP and SAT**
