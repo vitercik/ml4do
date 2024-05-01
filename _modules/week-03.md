@@ -32,7 +32,8 @@ Apr 24
 : - Ahn, Sungsoo, Younggyo Seo, and Jinwoo Shin. "Learning what to defer for maximum independent sets." ICML'20. [[link]](https://proceedings.mlr.press/v119/ahn20a/ahn20a.pdf)
 
 Apr 29
-: **Neural algorithmic alignment**
+: **Neural algorithmic reasoning**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture9.pdf)
 : *Supplemental reading:*
 : - Veličković, Petar, et al. "Neural execution of graph algorithms." ICLR'20. [[link]](https://arxiv.org/pdf/1910.10593.pdf)
 : - Ibarz, Borja, et al. "A generalist neural algorithmic learner." LoG'22. [[link]](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)
