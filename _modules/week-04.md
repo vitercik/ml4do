@@ -18,3 +18,9 @@ May 13
 : *Supplemental reading:*
 : - Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 : - Selsam, Daniel, et al. "Learning a SAT solver from single-bit supervision." ICLR'19. [[link]](https://arxiv.org/pdf/1802.03685.pdf)
+
+May 15
+: **Algorithm configuration**
+: *Supplemental reading:*
+: - Hutter, Frank, et al. "ParamILS: an automatic algorithm configuration framework." Journal of Artificial Intelligence Research 36 (2009): 267-306.
+[[link]](https://www.jair.org/index.php/jair/article/download/10628/25415/)
