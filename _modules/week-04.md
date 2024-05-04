@@ -1,5 +1,5 @@
 ---
-title: Integer programming (IP) and satisfiability (SAT) problems
+title: Integer programming (IP)
 ---
 
 May 1
@@ -14,7 +14,7 @@ May 8
 : - AhmadiTeshnizi, Ali, Wenzhi Gao, and Madeleine Udell. "OptiMUS: Optimization modeling using MIP solvers and large language models." arXiv'23. [[link]](https://www.arxiv.org/abs/2310.06116)
 
 May 13
-: **GNNs for IP and SAT**
+: **GNNs for IP**
 : *Supplemental reading:*
 : - Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 : - Selsam, Daniel, et al. "Learning a SAT solver from single-bit supervision." ICLR'19. [[link]](https://arxiv.org/pdf/1802.03685.pdf)
