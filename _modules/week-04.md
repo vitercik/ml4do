@@ -4,6 +4,7 @@ title: Integer programming (IP)
 
 May 1
 : **IP formulations**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture10.pdf)
 
 May 6
 : **IP solvers**
