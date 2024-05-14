@@ -8,6 +8,7 @@ May 1
 
 May 6
 : **IP solvers**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture11.pdf)
 
 May 8
 : **Guest lecture by [Madeleine Udell](https://web.stanford.edu/~udell/)**
