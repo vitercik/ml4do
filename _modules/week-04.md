@@ -17,6 +17,7 @@ May 8
 
 May 13
 : **GNNs for IP**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture12.pdf)
 : *Supplemental reading:*
 : - Gasse, Maxime, et al. "Exact combinatorial optimization with graph convolutional neural networks." NeurIPS'19. [[link]](https://arxiv.org/pdf/1906.01629.pdf)
 : - Selsam, Daniel, et al. "Learning a SAT solver from single-bit supervision." ICLR'19. [[link]](https://arxiv.org/pdf/1802.03685.pdf)
