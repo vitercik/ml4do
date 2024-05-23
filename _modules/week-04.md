@@ -24,6 +24,7 @@ May 13
 
 May 15
 : **Algorithm configuration**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture13.pdf)
 : *Supplemental reading:*
 : - Hutter, Frank, et al. "ParamILS: an automatic algorithm configuration framework." Journal of Artificial Intelligence Research 36 (2009): 267-306.
 [[link]](https://www.jair.org/index.php/jair/article/download/10628/25415/)
