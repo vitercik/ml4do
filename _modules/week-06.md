@@ -4,6 +4,8 @@ title: Transformers
 
 May 29
 : **Transformers overview**
+: *Supplemental reading:*
+: - Chapter 12 of Bishop's "Deep learning: foundations and concepts" [[link 1]](https://searchworks.stanford.edu/view/in00000073280) [[link 2]](https://issuu.com/cmb321/docs/deep_learning_ebook)
 
 June 3
 : **Transformers as algorithms**
