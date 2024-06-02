@@ -12,3 +12,4 @@ June 3
 : *Supplemental reading:*
 : - Garg, Shivam, et al. "What can transformers learn in-context? A case study of simple function classes." NeurIPS'22. [[link]](https://arxiv.org/pdf/2208.01066.pdf)
 : - Akyürek, Ekin, et al. "What learning algorithm is in-context learning? Investigations with linear models." ICLR'23. [[link]](https://arxiv.org/pdf/2211.15661)
+: - Bai, Yu, et al. "Transformers as statisticians: Provable in-context learning with in-context algorithm selection." NeurIPS'23. [[link]](https://arxiv.org/pdf/2306.04637)
