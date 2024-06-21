@@ -11,5 +11,6 @@ May 20
 
 May 22
 : **Algorithms with predictions**
+: [Lecture notes](https://vitercik.github.io/ml4do/assets/notes/lecture15.pdf)
 : *Supplemental reading:*
 : - Purohit, Manish, et al. "Improving online algorithms via ML predictions." NeurIPS'18. [[link]](https://papers.nips.cc/paper/2018/file/73a427badebe0e32caa2e1fc7530b7f3-Paper.pdf)
